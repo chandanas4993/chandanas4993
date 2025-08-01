@@ -30,7 +30,7 @@ I'm a passionate AI/ML Engineer who thrives at the intersection of cutting-edge 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chandanareddy77/)
 - 📬 Email: chandanas4993@gmail.com
-- 🧪 [My Projects](#) — coming soon!
+- 🧪 [My Projects](https://chandanashivannagari.netlify.app/) — coming soon!
 
 ---
 
