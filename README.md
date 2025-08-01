@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Chandana 👋</h1>
+<h1 >Hi, I'm Chandana 👋</h1>
 
-<p align="center">
+<p >
   🎓 MS in Computer Science from University of North Texas (2024) <br>
   💼 AI/ML Engineer with 5+ years of hands-on experience <br>
   🌐 Azure AI Engineer Associate Certified <br>
