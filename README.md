@@ -41,31 +41,4 @@ I'm currently looking for opportunities where I can contribute to AI-first produ
 Thanks for visiting! ⭐️
 
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/chandanas4993/bot">
-        <img src="https://github.com/chandanas4993/bot/blob/4f0c44ed35d0498ab2b1db398cc5594cd7276b27/Image.jpg"/><br/>
-        <strong>GenAI RAG Chatbot</strong>
-      </a>
-    </td>
-    
-    <td width="33%">
-      <a href="https://github.com/chandanas4993/CHANDANA_WEBSITE">
-        <img src="https://github.com/chandanas4993/CHANDANA_WEBSITE/blob/c939417f3d94c8db38871cf2ad5ec4ab59b5d310/image1.jpg"/><br/>
-        <strong>LLM Agent Framework</strong>
-      </a>
-    </td>
-
-    <td width="33%">
-      <a href="https://github.com/your-username/mlops-on-azure">
-        <img src="https://raw.githubusercontent.com/your-username/mlops-on-azure/main/assets/thumbnail.png" width="100%" alt="MLOps on Azure"/><br/>
-        <strong>MLOps on Azure</strong>
-      </a>
-      
-    
-  </tr>
-</table>
 
