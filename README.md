@@ -5,7 +5,7 @@
   💼 AI/ML Engineer with 5+ years of hands-on experience <br>
   🌐 Azure AI Engineer Associate Certified <br>
   🔍 Currently seeking full-time roles in AI/ML, GenAI, or Full Stack Development <br>
-  📍 Based in Santa Clara, CA | Open to Remote and Hybrid Opportunities
+  📍 Based in Santa Clara, CA | Open to Remote, Relocation and Hybrid Opportunities
 </p>
 
 ---
